@@ -83,20 +83,6 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
-    },
-    {
-      "id": "f8d1",
-      "title": "React Test Job 1",
-      "type": "Part-Time",
-      "location": "Houston, TX",
-      "description": "This is a react test job 1.",
-      "salary": "$60K - 70K",
-      "company": {
-        "name": "Test",
-        "description": "This is a test company.",
-        "contactEmail": "test@test.com",
-        "contactPhone": "444-444-4444"
-      }
     }
   ]
 }
